@@ -1,0 +1,1 @@
+# week1-day01-primitive_datatypes_homeassignment.js
